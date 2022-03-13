@@ -2,6 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:66ff9e,100:7ae9ff&height=300&section=header&text=Seong%20Eun%20Github&fontSize=90&fontColor=fff)
 
 <p align="center">English, Korean, Vietnamese</p>
+<p align="center">Chinese, Japanese (someday in the future) ^^</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
