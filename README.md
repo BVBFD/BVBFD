@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a></a>
   <br>
 </p> 
 <br>
@@ -39,5 +39,6 @@
   <a href="https://myportfolioblogproject.herokuapp.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://myportfolioblogproject.herokuapp.com/"/></a>&nbsp
   <a href="https://bvbfd.github.io/Portfolio-Website-ver2.0/"><img src="https://img.shields.io/badge/Profile-0076D6?style=flat-square&logo=Internet Explorer&logoColor=white&link=https://bvbfd.github.io/Portfolio-Website-ver2.0/"/></a>
   <a href="mailto:lsevina126@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=lsevina126@gmail.com"/></a>
+   <a href="https://blog.naver.com/dltjddms126/"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 </p>
 <br>
