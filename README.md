@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:66ff9e,100:7ae9ff&height=300&section=header&text=Seong%20Eun%20Github&fontSize=90&fontColor=fff)
 
-<p align="center">English, Korean, Vietnamese</p>
+<p align="center">English, Korean</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -36,9 +36,9 @@
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <br>
 <p align="center">
-  <a href="https://blog.naver.com/dltjddms126/"><img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-  <a href="https://myportfolioblogproject.herokuapp.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://myportfolioblogproject.herokuapp.com/"/></a>&nbsp
-  <a href="https://bvbfd.github.io/Portfolio-Website-ver2.0/"><img src="https://img.shields.io/badge/Profile-0076D6?style=flat-square&logo=Internet Explorer&logoColor=white&link=https://bvbfd.github.io/Portfolio-Website-ver2.0/"/></a>
+<!--   <a href="https://blog.naver.com/dltjddms126/"><img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> -->
+  <a href="https://lsevina126.netlify.app/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://myportfolioblogproject.herokuapp.com/"/></a>&nbsp
+<!--   <a href="https://bvbfd.github.io/Portfolio-Website-ver2.0/"><img src="https://img.shields.io/badge/Profile-0076D6?style=flat-square&logo=Internet Explorer&logoColor=white&link=https://bvbfd.github.io/Portfolio-Website-ver2.0/"/></a> -->
   <a href="mailto:lsevina126@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=lsevina126@gmail.com"/></a>
 </p>
 <br>
